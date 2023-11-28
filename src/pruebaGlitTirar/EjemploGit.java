@@ -8,6 +8,8 @@ public class EjemploGit {
 		System.out.println("Hola alumnos del curso Git");
 		
 		String nombre = "Belisario Buitrago Lievano";
+		
+		System.out.println("nombre");
 	}
 
 }
